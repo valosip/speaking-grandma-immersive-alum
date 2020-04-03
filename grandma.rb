@@ -20,3 +20,4 @@ elsif string == string.upcase
 else
   "HUH?! SPEAK UP, SONNY!"
 end
+end
